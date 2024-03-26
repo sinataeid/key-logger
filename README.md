@@ -55,7 +55,7 @@ Any other command will be executed on the target system, and the output will be 
 To exit the backdoor program on the client, type q and press Enter. This will close the connection and exit the program.
 
 ## Disclaimer
-This software is intended for educational and testing purposes only. Misuse of this software may violate laws and regulations. The authors are not responsible for any damage caused by the misuse of this software.
+This software is intended for educational and testing purposes only. Misuse of this software may violate laws and regulations. No responsibilities are taken for any damage caused by the misuse of this software.
 
 ## Note
 Ensure that you have appropriate permissions before running the server and backdoor programs. Additionally, use this software responsibly and only on systems you own or have explicit permission to access.
